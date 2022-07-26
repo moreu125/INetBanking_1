@@ -1,0 +1,12 @@
+14:02:52,063  INFO ebanking:34 - chrome
+14:03:21,087  INFO ebanking:38 - url is open
+14:04:13,471 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+14:04:13,473 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+14:04:13,476 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:04:13,479 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:04:13,480 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Uday/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:04:14,078 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+14:04:14,079 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+14:04:14,079 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:04:14,080 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:04:14,081 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Uday/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

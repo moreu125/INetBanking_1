@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.inetBanking.reports.AExtentReporterNG"/>
+  </listeners>
+  <test parallel="none" name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.inetBanking.testCases.TestAddCustomerWithValidData">
+        <methods>
+          <include name="step_1_Login_To_Application"/>
+          <include name="tearDown"/>
+          <include name="step_2_Click_NewCustomer"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.inetBanking.testCases.TestAddCustomerWithValidData -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
